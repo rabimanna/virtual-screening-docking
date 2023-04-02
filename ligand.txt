@@ -1,0 +1,11 @@
+lig-1.pdbqt
+lig-2.pdbqt
+lig-3.pdbqt
+lig-4.pdbqt
+lig-5.pdbqt
+lig-6.pdbqt
+lig-7.pdbqt
+lig-8.pdbqt
+lig-9.pdbqt
+lig-10.pdbqt
+
